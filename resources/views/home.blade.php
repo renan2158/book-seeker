@@ -31,9 +31,13 @@
             </nav>
         </div>
         <div class="homepage-container">
-            <div class="search-field">
-                <input placeholder="Search" />
-            </div>
+            <form class="search-field">
+                <input />
+
+                <button type="submit">
+                    <img alt="Search icon" src="{{ asset('img/search.svg') }}" />
+                </button>
+            </form>
         </div>
     </body>
 </html>

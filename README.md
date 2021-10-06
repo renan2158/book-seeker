@@ -18,7 +18,3 @@
 - [Google Books API](https://developers.google.com/books)
 
 ---
-
-<p align="center">
-   :construction: This is project was <strong>developed for fun</strong>, it's not a real application!
-</p>
